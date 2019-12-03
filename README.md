@@ -1,4 +1,4 @@
-# benji
+# benji.io
 Benji a productivity app with aimed at intentional, minimalist journaling.
 Benji is named after ______, a ______ - a man who definitely knew how to manage his day.
 
@@ -9,6 +9,8 @@ Enter benji.
 
 ![ui](res/ui.png)
 
+Benji uses a physical notebook analogous approach, with *pages* where you can plan your day or projects/sprints, write down habits, shopping lists etc.
+
 FEATURES:
 1) Write your task in a single place, using simple constructs.
 2) Navigate through a minimalist UI with the exact amount of features required.
@@ -16,15 +18,12 @@ FEATURES:
 4) Extract information, from your tasks written in natural language. This information is then used to set reminders for your task and habits. Apart from this other general information is also gathered and use to help with your experience.
 5) Using simple constructs to set key : value pairs, that can be used to track your progress, and help you organise your tasks.
 
-### The How
+### How
 Benji uses a simple four point system:
-1) Write a title for your app. It can be the date for daily journaling, "habit" for habits or any name for timed sprints/projects. After the title.you can also include other tags.
-2) Start a task with a "+". Use natural language. Eg. "go for flamenco class at 4". Reminders will also be set for you.
+1) Write a title for your app. It can be the date for daily journaling, "habit" for habits, or any name for timed sprints/projects. After the title you can also include other tags.
+2) Start a task with a "+". Use natural language. Eg. "go for flamenco class at 4".
 3) Start a comment with the "-". You can include information about your day/projects that can be use to track your progess. Eg "mood is good, "day was productive", "did gym today, trainedpart:chest" etc.
-4) Use #hashtags to tag your app. Eg. #goals, #google
+4) Use #hashtags to tag your app and make the entries searchable. Eg. #goals, #google. You can also use predifined tags such as #done, #important etc.
 
-#### The magic of machine learning:
-
-
-### Conclusion 
-
+### Conclusion
+Benji is for all those people that want something simple, minimalist and intentional. 
