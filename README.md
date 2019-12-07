@@ -1,5 +1,5 @@
 # benji.io
-Benji a productivity app with aimed at intentional, minimalist journaling.
+Benji a productivity app, aimed at intentional, minimalist journaling.
 Benji is named after Benjamin Franklin, a writer, printer, political philosopher, politician, freemason, postmaster, scientist, inventor, humorist, civic activist, statesman, and diplomat - a man who definitely knew how to manage his day.
 
 I have been daily journalling since I was 18. However I always used notebooks and journals. There are a lot of things about using "material" journals that I liked. There is something about writing your tasks and entries, that makes the process intentional and more meaningful. Also a book is more flexible. However I was also looking at apps the entire time, since I couldn't ignore the obvious benefits of digital apps. Having ease of access, ability to more interactively track your progess, or things like setting reminders etc. I couldn't find something that had the perfect blend of both the features.    
