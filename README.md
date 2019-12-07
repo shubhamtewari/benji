@@ -15,15 +15,15 @@ FEATURES:
 1) Write your task in a single place, using simple constructs.
 2) Navigate through a minimalist UI with the exact amount of features required.
 3) Have a flexible system and interface that lets you use the app in a number of ways. As a daily planner, journal, mood tracker, sprint planner, habit diary, etc
-4) Write down due-dates, event dates, habit frequencies and other time constructs in your task and events in natural language and have reminders set for you accordingly.
-5) Using simple constructs and natural language in your task to set key : value pairs, that can be used to track your progress(in the form of pseudo-charts.
+4) Write down due-dates, event dates, habit frequencies and other time constructs in your tasks in natural language, and have reminders set for you accordingly.
+5) Using simple constructs and natural language in your task to set key : value pairs, that can be used to track your progress(in the form of pseudo-charts). Eg. "mood is good", "gym:chest", "day was productive" etc.
 
 ### How
 Benji uses a simple four point system:
 1) **Write a title for your app.** *date* for daily journaling, *habit* for habits, *any name* for timed sprints. After the title you can also include other tags.
 2) **Start a task with a "+".** Use natural language. Eg. "go for flamenco class at 4".
 3) **Finish a task by putting an "x" in the end. Move it forward with ">>".**
-4) **Start a comment with the "-".** You can include information about your day/projects that can be use to track your progess. Or anything else.
+4) **Start a comment with "-".** You can include information about your day/projects that can be use to track your progess. Or anything else. Eg. "morning:early" or "couldn't finish work, *mood* is *bad*" etc.
 5) **Use #hashtags to tag your app and make the entries searchable.** Eg. #goals, #google. You can also use predifined tags such as #done, #important etc.
 
 ### Conclusion
