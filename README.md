@@ -7,7 +7,7 @@ What I required was an app that didn't feel too artificial will all these button
 
 **Enter benji.**
 
-![ui](res/ui.png)
+![ui](res/uimockup.png)
 
 Benji uses a physical notebook analogous approach, with *pages* where you can plan your day or projects/growth-sprints, write down habits, shopping lists etc. It has a single unified input interface where you can use a simple system **leveraged by the power of machine learning** to plan/journal.
 
