@@ -26,6 +26,12 @@ Benji uses a simple four point system:
 4) **Start a comment with "-".** You can include information about your day/projects that can be use to track your progess. Or anything else. Eg. "morning:early" or "couldn't finish work, *mood* is *bad*" etc.
 5) **Use #hashtags to tag your app and make the entries searchable.** Eg. #goals, #google. You can also use predifined tags such as #done, #important etc.
 
+### Flowchart
+![flowchart](res/processingflowchart.png)
+*Image: Illustration showing how the text will be processed*
+
+**Note:** This illustration is for explanation purposes. Actual implementation will vary.
+
 ### Conclusion
 Benji is for all those people that want a simple, minimalist and intentional experience as they move towards their dreams. 
 
