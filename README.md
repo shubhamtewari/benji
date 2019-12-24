@@ -28,6 +28,7 @@ Benji uses a simple four point system:
 
 ### Flowchart
 ![flowchart](res/processingflowchart.png)
+
 *Image: Illustration showing how the text will be processed*
 
 **Note:** This illustration is for explanation purposes. Actual implementation will vary.
